@@ -244,7 +244,7 @@ export default function App() {
         </div>
       </section>
 
-      <Marquee text="HALL OF FAME • PRIZES & RECOGNITION • SURPRISE BOUNTY AMOUNT •" />
+      <Marquee text="HALL OF FAME • PRIZES & RECOGNITION • CASH PRIZES REVEALED WITH WINNERS •" />
 
       {/* Prizes Section - Styled like Testimonials */}
       <section id="prizes" className="py-20 md:py-32 px-6 md:px-12 max-w-[1800px] mx-auto relative overflow-hidden text-center">
