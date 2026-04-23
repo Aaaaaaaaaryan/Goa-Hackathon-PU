@@ -1,0 +1,21 @@
+{
+  "name": "Goa Hackathon 2026 | Parul University Goa",
+  "short_name": "Goa Hackathon",
+  "description": "Official Goa Hackathon 2026 landing page by Parul University Goa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1c1c",
+  "theme_color": "#1c1c1c",
+  "icons": [
+    {
+      "src": "/fev.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/fev.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
