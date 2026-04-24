@@ -28,16 +28,16 @@ export default function App() {
         
         <h1 className="font-anton text-[3.2rem] sm:text-[6rem] md:text-[8rem] lg:text-[10rem] leading-[1.1] md:leading-[0.9] tracking-tight uppercase max-w-[1400px] mx-auto z-10 break-words">
           <motion.span initial={{y: 50, opacity: 0}} animate={{y: 0, opacity: 1}} transition={{duration: 0.8, delay: 0.1}} className="block">
-            HOOKED BY <span className="text-accent-yellow">AI,</span>
+            HOOKED BY <span className="text-accent-yellow">AI</span>
           </motion.span>
           <motion.span initial={{y: 50, opacity: 0}} animate={{y: 0, opacity: 1}} transition={{duration: 0.8, delay: 0.2}} className="block mt-2 md:mt-4">
-            FASCINATED BY <span className="text-accent-teal">INNOVATION,</span>
+            FASCINATED BY <span className="text-accent-teal">INNOVATION</span>
           </motion.span>
           <motion.span initial={{y: 50, opacity: 0}} animate={{y: 0, opacity: 1}} transition={{duration: 0.8, delay: 0.3}} className="block mt-2 md:mt-4">
             FUELLED BY <span className="text-accent-pink">CODE</span> AND
           </motion.span>
           <motion.span initial={{y: 50, opacity: 0}} animate={{y: 0, opacity: 1}} transition={{duration: 0.8, delay: 0.4}} className="block mt-2 md:mt-4">
-            MEANINGFUL <span className="text-accent-orange">SOLUTIONS.</span>
+            MEANINGFUL <span className="text-accent-orange">SOLUTIONS</span>
           </motion.span>
         </h1>
       </header>
@@ -50,7 +50,7 @@ export default function App() {
           <div className="lg:col-span-7">
             <h2 className="font-anton text-5xl sm:text-7xl md:text-[6rem] leading-[1.1] md:leading-[0.95] tracking-wide uppercase mb-12">
               BUILDING BRAND NEW <br />
-              EXPERIENCES AT <span className="text-accent-orange underline decoration-[4px] md:decoration-[8px] underline-offset-[4px] md:underline-offset-[12px]">PARUL UNIVERSITY GOA</span>.
+              EXPERIENCES AT <span className="text-accent-orange underline decoration-[4px] md:decoration-[8px] underline-offset-[4px] md:underline-offset-[12px]">PARUL UNIVERSITY GOA</span>
             </h2>
             <div className="flex gap-4">
                <div className="w-16 h-16 md:w-20 md:h-20 bg-accent-teal rounded-full flex items-center justify-center text-bg-dark font-bold text-xl"><Sparkles size={32}/></div>
